@@ -1,0 +1,761 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   version="1.1"
+   width="1033px"
+   height="593px"
+   viewBox="-0.5 -0.5 1033 593"
+   content="&lt;mxfile host=&quot;app.diagrams.net&quot; modified=&quot;2021-07-15T11:18:05.958Z&quot; agent=&quot;5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36&quot; etag=&quot;87gvJJNqU15SL3DdGwFo&quot; version=&quot;14.8.6&quot; type=&quot;google&quot;&gt;&lt;diagram id=&quot;WAtjJYc2QIRjVWn-TdF3&quot; name=&quot;Page-1&quot;&gt;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&lt;/diagram&gt;&lt;/mxfile&gt;"
+   style="background-color: rgb(255, 255, 255);"
+   id="svg258"
+   sodipodi:docname="struktur.svg"
+   inkscape:version="1.1 (c68e22c387, 2021-05-23)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <sodipodi:namedview
+     id="namedview260"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     showgrid="false"
+     inkscape:zoom="0.87689713"
+     inkscape:cx="577.03462"
+     inkscape:cy="121.45096"
+     inkscape:window-width="1366"
+     inkscape:window-height="705"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg258" />
+  <defs
+     id="defs2" />
+  <rect
+     x="456"
+     y="1"
+     width="120"
+     height="60"
+     fill="#ffffff"
+     stroke="#000000"
+     stroke-width="3"
+     pointer-events="all"
+     id="rect4" />
+  <g
+     transform="translate(-0.5,-0.5)"
+     id="g10">
+    <switch
+       id="switch8">
+      <foreignObject
+         style="overflow: visible; text-align: left;"
+         pointer-events="none"
+         width="100%"
+         height="100%"
+         requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+        <xhtml:div
+           style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 118px; height: 1px; padding-top: 31px; margin-left: 457px;">
+          <xhtml:div
+             style="box-sizing: border-box; font-size: 0; text-align: center; ">
+            <xhtml:div
+               style="display: inline-block; font-size: 12px; font-family: Times New Roman; color: #000000; line-height: 1.2; pointer-events: all; white-space: normal; word-wrap: normal; ">Ketua  Himpunan<xhtml:br
+   style="font-size: 12px" />
+ <xhtml:br
+   style="font-size: 12px" />
+<xhtml:span
+   style="font-size: 12px">
+  <xhtml:span
+     lang="IN"
+     style="font-size: 12px ; line-height: 115%">Achmad Shofyan</xhtml:span>
+</xhtml:span>
+</xhtml:div>
+          </xhtml:div>
+        </xhtml:div>
+      </foreignObject>
+      <text
+         x="516"
+         y="35"
+         fill="#000000"
+         font-family="'Times New Roman'"
+         font-size="12px"
+         text-anchor="middle"
+         id="text6">Ketua  Himpunan...</text>
+    </switch>
+  </g>
+  <path
+     d="M 516,116 V 71.1"
+     fill="none"
+     stroke="#000000"
+     stroke-width="3"
+     stroke-miterlimit="10"
+     pointer-events="stroke"
+     id="path12" />
+  <path
+     d="m 516,64.35 4.5,9 -4.5,-2.25 -4.5,2.25 z"
+     fill="#000000"
+     stroke="#000000"
+     stroke-width="3"
+     stroke-miterlimit="10"
+     pointer-events="all"
+     id="path14" />
+  <rect
+     x="446"
+     y="116"
+     width="140"
+     height="70"
+     fill="#ffffff"
+     stroke="#000000"
+     stroke-width="3"
+     pointer-events="all"
+     id="rect16" />
+  <g
+     transform="translate(-0.5,-0.5)"
+     id="g22">
+    <switch
+       id="switch20">
+      <foreignObject
+         style="overflow: visible; text-align: left;"
+         pointer-events="none"
+         width="100%"
+         height="100%"
+         requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+        <xhtml:div
+           style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 138px; height: 1px; padding-top: 151px; margin-left: 447px;">
+          <xhtml:div
+             style="box-sizing: border-box; font-size: 0; text-align: center; ">
+            <xhtml:div
+               style="display: inline-block; font-size: 12px; font-family: Times New Roman; color: #000000; line-height: 1.2; pointer-events: all; white-space: normal; word-wrap: normal; ">Wakil Ketua Himpunan <xhtml:br
+   style="font-size: 12px" />
+<xhtml:br
+   style="font-size: 12px" />
+Akhmad Mufti A W</xhtml:div>
+          </xhtml:div>
+        </xhtml:div>
+      </foreignObject>
+      <text
+         x="516"
+         y="155"
+         fill="#000000"
+         font-family="'Times New Roman'"
+         font-size="12px"
+         text-anchor="middle"
+         id="text18">Wakil Ketua Himpunan...</text>
+    </switch>
+  </g>
+  <path
+     d="M 596,261 H 516 V 196.1"
+     fill="none"
+     stroke="#000000"
+     stroke-width="3"
+     stroke-miterlimit="10"
+     pointer-events="stroke"
+     id="path24" />
+  <path
+     d="m 516,189.35 4.5,9 -4.5,-2.25 -4.5,2.25 z"
+     fill="#000000"
+     stroke="#000000"
+     stroke-width="3"
+     stroke-miterlimit="10"
+     pointer-events="all"
+     id="path26" />
+  <rect
+     x="596"
+     y="231"
+     width="120"
+     height="60"
+     fill="#ffffff"
+     stroke="#000000"
+     stroke-width="3"
+     pointer-events="all"
+     id="rect28" />
+  <g
+     transform="translate(-0.5,-0.5)"
+     id="g34">
+    <switch
+       id="switch32">
+      <foreignObject
+         style="overflow: visible; text-align: left;"
+         pointer-events="none"
+         width="100%"
+         height="100%"
+         requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+        <xhtml:div
+           style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 118px; height: 1px; padding-top: 261px; margin-left: 597px;">
+          <xhtml:div
+             style="box-sizing: border-box; font-size: 0; text-align: center; ">
+            <xhtml:div
+               style="display: inline-block; font-size: 12px; font-family: Times New Roman; color: #000000; line-height: 1.2; pointer-events: all; white-space: normal; word-wrap: normal; ">Sekertaris 1<xhtml:br
+   style="font-size: 12px" />
+<xhtml:br
+   style="font-size: 12px" />
+<xhtml:span
+   style="font-size: 12px">
+  <xhtml:span
+     style="font-size: 12px ; line-height: 115%">Haqqinia Nabila </xhtml:span>
+</xhtml:span>
+</xhtml:div>
+          </xhtml:div>
+        </xhtml:div>
+      </foreignObject>
+      <text
+         x="656"
+         y="265"
+         fill="#000000"
+         font-family="'Times New Roman'"
+         font-size="12px"
+         text-anchor="middle"
+         id="text30">Sekertaris 1...</text>
+    </switch>
+  </g>
+  <path
+     d="m 746,261 h -20 10 -9.9"
+     fill="none"
+     stroke="#000000"
+     stroke-width="3"
+     stroke-miterlimit="10"
+     pointer-events="stroke"
+     id="path36" />
+  <path
+     d="m 719.35,261 9,-4.5 -2.25,4.5 2.25,4.5 z"
+     fill="#000000"
+     stroke="#000000"
+     stroke-width="3"
+     stroke-miterlimit="10"
+     pointer-events="all"
+     id="path38" />
+  <rect
+     x="746"
+     y="231"
+     width="120"
+     height="60"
+     fill="#ffffff"
+     stroke="#000000"
+     stroke-width="3"
+     pointer-events="all"
+     id="rect40" />
+  <g
+     transform="translate(-0.5,-0.5)"
+     id="g46">
+    <switch
+       id="switch44">
+      <foreignObject
+         style="overflow: visible; text-align: left;"
+         pointer-events="none"
+         width="100%"
+         height="100%"
+         requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+        <xhtml:div
+           style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 118px; height: 1px; padding-top: 261px; margin-left: 747px;">
+          <xhtml:div
+             style="box-sizing: border-box; font-size: 0; text-align: center; ">
+            <xhtml:div
+               style="display: inline-block; font-size: 12px; font-family: Times New Roman; color: #000000; line-height: 1.2; pointer-events: all; white-space: normal; word-wrap: normal; ">Sekertaris 2<xhtml:br
+   style="font-size: 12px" />
+<xhtml:br
+   style="font-size: 12px" />
+<xhtml:span
+   style="font-size: 12px">
+  <xhtml:span
+     style="font-size: 12px ; line-height: 115%">Aprilia D Endarwati</xhtml:span>
+</xhtml:span>
+</xhtml:div>
+          </xhtml:div>
+        </xhtml:div>
+      </foreignObject>
+      <text
+         x="806"
+         y="265"
+         fill="#000000"
+         font-family="'Times New Roman'"
+         font-size="12px"
+         text-anchor="middle"
+         id="text42">Sekertaris 2...</text>
+    </switch>
+  </g>
+  <rect
+     x="316"
+     y="231"
+     width="120"
+     height="60"
+     fill="#ffffff"
+     stroke="#000000"
+     stroke-width="3"
+     pointer-events="all"
+     id="rect48" />
+  <g
+     transform="translate(-0.5,-0.5)"
+     id="g54">
+    <switch
+       id="switch52">
+      <foreignObject
+         style="overflow: visible; text-align: left;"
+         pointer-events="none"
+         width="100%"
+         height="100%"
+         requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+        <xhtml:div
+           style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 118px; height: 1px; padding-top: 261px; margin-left: 317px;">
+          <xhtml:div
+             style="box-sizing: border-box; font-size: 0; text-align: center; ">
+            <xhtml:div
+               style="display: inline-block; font-size: 12px; font-family: Times New Roman; color: #000000; line-height: 1.2; pointer-events: all; white-space: normal; word-wrap: normal; ">Bandahara 1<xhtml:br
+   style="font-size: 12px" />
+<xhtml:p
+   class="MsoNormal"
+   style="font-size: 12px">
+  <xhtml:span
+     style="font-size: 12px">
+    <xhtml:span
+       lang="IN"
+       style="font-size: 12px ; line-height: 115%">Savela Citra M P</xhtml:span>
+  </xhtml:span>
+</xhtml:p>
+</xhtml:div>
+          </xhtml:div>
+        </xhtml:div>
+      </foreignObject>
+      <text
+         x="376"
+         y="265"
+         fill="#000000"
+         font-family="'Times New Roman'"
+         font-size="12px"
+         text-anchor="middle"
+         id="text50">Bandahara 1...</text>
+    </switch>
+  </g>
+  <path
+     d="m 436,261 h 80"
+     fill="none"
+     stroke="#000000"
+     stroke-width="3"
+     stroke-miterlimit="10"
+     pointer-events="stroke"
+     id="path56" />
+  <path
+     d="m 276,261 h 29.9"
+     fill="none"
+     stroke="#000000"
+     stroke-width="3"
+     stroke-miterlimit="10"
+     pointer-events="stroke"
+     id="path58" />
+  <path
+     d="m 312.65,261 -9,4.5 2.25,-4.5 -2.25,-4.5 z"
+     fill="#000000"
+     stroke="#000000"
+     stroke-width="3"
+     stroke-miterlimit="10"
+     pointer-events="all"
+     id="path60" />
+  <rect
+     x="156"
+     y="231"
+     width="120"
+     height="60"
+     fill="#ffffff"
+     stroke="#000000"
+     stroke-width="3"
+     pointer-events="all"
+     id="rect62" />
+  <g
+     transform="translate(-0.5,-0.5)"
+     id="g68">
+    <switch
+       id="switch66">
+      <foreignObject
+         style="overflow: visible; text-align: left;"
+         pointer-events="none"
+         width="100%"
+         height="100%"
+         requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+        <xhtml:div
+           style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 118px; height: 1px; padding-top: 261px; margin-left: 157px;">
+          <xhtml:div
+             style="box-sizing: border-box; font-size: 0; text-align: center; ">
+            <xhtml:div
+               style="display: inline-block; font-size: 12px; font-family: Times New Roman; color: #000000; line-height: 1.2; pointer-events: all; white-space: normal; word-wrap: normal; ">Bandahara 2<xhtml:br
+   style="font-size: 12px" />
+<xhtml:p
+   class="MsoNormal"
+   style="font-size: 12px">
+  <xhtml:span
+     style="font-size: 12px">
+    <xhtml:span
+       style="font-size: 12px ; line-height: 115%">Yulia Tri Puspita</xhtml:span>
+  </xhtml:span>
+</xhtml:p>
+</xhtml:div>
+          </xhtml:div>
+        </xhtml:div>
+      </foreignObject>
+      <text
+         x="216"
+         y="265"
+         fill="#000000"
+         font-family="'Times New Roman'"
+         font-size="12px"
+         text-anchor="middle"
+         id="text64">Bandahara 2...</text>
+    </switch>
+  </g>
+  <path
+     d="M 61,381 V 321 H 516 V 261"
+     fill="none"
+     stroke="#000000"
+     stroke-width="3"
+     stroke-miterlimit="10"
+     pointer-events="stroke"
+     id="path70" />
+  <rect
+     x="1"
+     y="381"
+     width="120"
+     height="60"
+     fill="#ffffff"
+     stroke="#000000"
+     stroke-width="3"
+     pointer-events="all"
+     id="rect72" />
+  <g
+     transform="translate(-0.5,-0.5)"
+     id="g78">
+    <switch
+       id="switch76">
+      <foreignObject
+         style="overflow: visible; text-align: left;"
+         pointer-events="none"
+         width="100%"
+         height="100%"
+         requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+        <xhtml:div
+           style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 118px; height: 1px; padding-top: 411px; margin-left: 2px;">
+          <xhtml:div
+             style="box-sizing: border-box; font-size: 0; text-align: center; ">
+            <xhtml:div
+               style="display: inline-block; font-size: 12px; font-family: Times New Roman; color: #000000; line-height: 1.2; pointer-events: all; white-space: normal; word-wrap: normal; ">kepala divisi<xhtml:br
+   style="font-size: 12px" />
+SDM <xhtml:br
+   style="font-size: 12px" />
+<xhtml:br
+   style="font-size: 12px" />
+Choirun Annas</xhtml:div>
+          </xhtml:div>
+        </xhtml:div>
+      </foreignObject>
+      <text
+         x="61"
+         y="415"
+         fill="#000000"
+         font-family="'Times New Roman'"
+         font-size="12px"
+         text-anchor="middle"
+         id="text74">kepala divisi...</text>
+    </switch>
+  </g>
+  <rect
+     x="131"
+     y="381"
+     width="120"
+     height="60"
+     fill="#ffffff"
+     stroke="#000000"
+     stroke-width="3"
+     pointer-events="all"
+     id="rect80" />
+  <g
+     transform="translate(-0.5,-0.5)"
+     id="g86">
+    <switch
+       id="switch84">
+      <foreignObject
+         style="overflow: visible; text-align: left;"
+         pointer-events="none"
+         width="100%"
+         height="100%"
+         requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+        <xhtml:div
+           style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 118px; height: 1px; padding-top: 411px; margin-left: 132px;">
+          <xhtml:div
+             style="box-sizing: border-box; font-size: 0; text-align: center; ">
+            <xhtml:div
+               style="display: inline-block; font-size: 12px; font-family: Times New Roman; color: #000000; line-height: 1.2; pointer-events: all; white-space: normal; word-wrap: normal; ">kepala divisi <xhtml:br
+   style="font-size: 12px" />
+Ristek<xhtml:br
+   style="font-size: 12px" />
+ <xhtml:br
+   style="font-size: 12px" />
+M Jauhar U A </xhtml:div>
+          </xhtml:div>
+        </xhtml:div>
+      </foreignObject>
+      <text
+         x="191"
+         y="415"
+         fill="#000000"
+         font-family="'Times New Roman'"
+         font-size="12px"
+         text-anchor="middle"
+         id="text82">kepala divisi...</text>
+    </switch>
+  </g>
+  <rect
+     x="321.5455"
+     y="381.8855"
+     width="118.22902"
+     height="154.02133"
+     fill="#ffffff"
+     stroke="#000000"
+     stroke-width="4.77098"
+     pointer-events="all"
+     id="rect88" />
+  <g
+     transform="translate(58.8,15.465385)"
+     id="g94">
+    <switch
+       id="switch92">
+      <foreignObject
+         style="overflow: visible; text-align: left;"
+         pointer-events="none"
+         width="100%"
+         height="100%"
+         requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+        <xhtml:div
+           style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 118px; height: 1px; padding-top: 411px; margin-left: 262px;">
+          <xhtml:div
+             style="box-sizing: border-box; font-size: 0; text-align: center; ">
+            <xhtml:div
+               style="display: inline-block; font-size: 12px; font-family: Times New Roman; color: #000000; line-height: 1.2; pointer-events: all; white-space: normal; word-wrap: normal; ">kepala divisi <xhtml:br
+   style="font-size: 12px" />
+Advokasi<xhtml:br
+   style="font-size: 12px" />
+<xhtml:br
+   style="font-size: 12px" />
+Nur Syaela Majid</xhtml:div>
+          </xhtml:div>
+        </xhtml:div>
+      </foreignObject>
+      <text
+         x="321"
+         y="415"
+         fill="#000000"
+         font-family="'Times New Roman'"
+         font-size="12px"
+         text-anchor="middle"
+         id="text90">kepala divisi...</text>
+    </switch>
+  </g>
+  <rect
+     x="591.65399"
+     y="381.89401"
+     width="118.212"
+     height="155.14468"
+     fill="#ffffff"
+     stroke="#000000"
+     stroke-width="4.788"
+     pointer-events="all"
+     id="rect112" />
+  <g
+     transform="translate(-56.378846,-18.746154)"
+     id="g118">
+    <switch
+       id="switch116">
+      <foreignObject
+         style="overflow: visible; text-align: left;"
+         pointer-events="none"
+         width="100%"
+         height="100%"
+         requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+        <xhtml:div
+           style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 118px; height: 1px; padding-top: 411px; margin-left: 652px;">
+          <xhtml:div
+             style="box-sizing: border-box; font-size: 0; text-align: center; ">
+            <xhtml:div
+               style="display: inline-block; font-size: 12px; font-family: Times New Roman; color: #000000; line-height: 1.2; pointer-events: all; white-space: normal; word-wrap: normal; ">kepala divis <xhtml:br
+   style="font-size: 12px" />
+Kewirausahaan<xhtml:br
+   style="font-size: 12px" />
+<xhtml:p
+   class="MsoListParagraph"
+   style="font-size: 12px">
+  <xhtml:span
+     style="font-size: 12px ; line-height: 115%">Risalatun N</xhtml:span>
+</xhtml:p>
+</xhtml:div>
+          </xhtml:div>
+        </xhtml:div>
+      </foreignObject>
+      <text
+         x="711"
+         y="415"
+         fill="#000000"
+         font-family="'Times New Roman'"
+         font-size="12px"
+         text-anchor="middle"
+         id="text114">kepala divis...</text>
+    </switch>
+  </g>
+  <rect
+     x="781"
+     y="381"
+     width="120"
+     height="60"
+     fill="#ffffff"
+     stroke="#000000"
+     stroke-width="3"
+     pointer-events="all"
+     id="rect120" />
+  <g
+     transform="translate(-0.5,-0.5)"
+     id="g126">
+    <switch
+       id="switch124">
+      <foreignObject
+         style="overflow: visible; text-align: left;"
+         pointer-events="none"
+         width="100%"
+         height="100%"
+         requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+        <xhtml:div
+           style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 118px; height: 1px; padding-top: 411px; margin-left: 782px;">
+          <xhtml:div
+             style="box-sizing: border-box; font-size: 0; text-align: center; ">
+            <xhtml:div
+               style="display: inline-block; font-size: 12px; font-family: Times New Roman; color: #000000; line-height: 1.2; pointer-events: all; white-space: normal; word-wrap: normal; ">kepala divisi <xhtml:br
+   style="font-size: 12px" />
+Dalam Negeri<xhtml:br
+   style="font-size: 12px" />
+<xhtml:br
+   style="font-size: 12px" />
+<xhtml:span
+   style="font-size: 12px ; line-height: 115% ; color: rgb(32 , 33 , 36) ; background: white">Silvi Maf'ul Sa'diyah</xhtml:span>
+</xhtml:div>
+          </xhtml:div>
+        </xhtml:div>
+      </foreignObject>
+      <text
+         x="841"
+         y="415"
+         fill="#000000"
+         font-family="'Times New Roman'"
+         font-size="12px"
+         text-anchor="middle"
+         id="text122">kepala divisi...</text>
+    </switch>
+  </g>
+  <rect
+     x="911"
+     y="381"
+     width="120"
+     height="60"
+     fill="#ffffff"
+     stroke="#000000"
+     stroke-width="3"
+     pointer-events="all"
+     id="rect128" />
+  <g
+     transform="translate(-0.5,-0.5)"
+     id="g134">
+    <switch
+       id="switch132">
+      <foreignObject
+         style="overflow: visible; text-align: left;"
+         pointer-events="none"
+         width="100%"
+         height="100%"
+         requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+        <xhtml:div
+           style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 118px; height: 1px; padding-top: 411px; margin-left: 912px;">
+          <xhtml:div
+             style="box-sizing: border-box; font-size: 0; text-align: center; ">
+            <xhtml:div
+               style="display: inline-block; font-size: 12px; font-family: Times New Roman; color: #000000; line-height: 1.2; pointer-events: all; white-space: normal; word-wrap: normal; ">kepala divisi<xhtml:br
+   style="font-size: 12px" />
+Luar Negeri <xhtml:br
+   style="font-size: 12px" />
+<xhtml:br
+   style="font-size: 12px" />
+Muhammad Dinan F </xhtml:div>
+          </xhtml:div>
+        </xhtml:div>
+      </foreignObject>
+      <text
+         x="971"
+         y="415"
+         fill="#000000"
+         font-family="'Times New Roman'"
+         font-size="12px"
+         text-anchor="middle"
+         id="text130">kepala divisi...</text>
+    </switch>
+  </g>
+  <path
+     d="M 976,321 H 516"
+     fill="none"
+     stroke="#000000"
+     stroke-width="3"
+     stroke-miterlimit="10"
+     pointer-events="stroke"
+     id="path136" />
+  <path
+     d="m 652.60038,378.71923 v -60"
+     fill="none"
+     stroke="#000000"
+     stroke-width="3"
+     stroke-miterlimit="10"
+     pointer-events="stroke"
+     id="path142" />
+  <path
+     d="m 383.38115,378.71923 v -60"
+     fill="none"
+     stroke="#000000"
+     stroke-width="3"
+     stroke-miterlimit="10"
+     pointer-events="stroke"
+     id="path144" />
+  <path
+     d="M 190.66,381 V 321"
+     fill="none"
+     stroke="#000000"
+     stroke-width="3"
+     stroke-miterlimit="10"
+     pointer-events="stroke"
+     id="path146" />
+  <path
+     d="M 840.58,381 V 321"
+     fill="none"
+     stroke="#000000"
+     stroke-width="3"
+     stroke-miterlimit="10"
+     pointer-events="stroke"
+     id="path148" />
+  <path
+     d="M 976,381 V 321"
+     fill="none"
+     stroke="#000000"
+     stroke-width="3"
+     stroke-miterlimit="10"
+     pointer-events="stroke"
+     id="path150" />
+  <switch
+     id="switch256">
+    <g
+       requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility"
+       id="g250" />
+    <a
+       transform="translate(0,-5)"
+       xlink:href="https://www.diagrams.net/doc/faq/svg-export-text-problems"
+       target="_blank"
+       id="a254">
+      <text
+         text-anchor="middle"
+         font-size="10px"
+         x="50%"
+         y="100%"
+         id="text252">Viewer does not support full SVG 1.1</text>
+    </a>
+  </switch>
+</svg>
